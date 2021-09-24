@@ -1,2 +1,2 @@
 # portfolio-2
-lightbox gallery using Html and css
+Personal website using Bootstrap
